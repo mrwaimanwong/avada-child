@@ -1,0 +1,21 @@
+Sep 05 2018 05:29:07
+{"Number":8,"Message":"Undefined index: HTTPS","File":"\/Users\/mrwaimanwong\/Dropbox\/AMPPS\/www\/appdetex.test\/wp-content\/mu-plugins\/wpengine-common\/plugin.php","Line":995}
+
+Sep 05 2018 05:29:07
+{"Number":2,"Message":"Invalid argument supplied for foreach()","File":"\/Users\/mrwaimanwong\/Dropbox\/AMPPS\/www\/appdetex.test\/wp-content\/mu-plugins\/wpengine-common\/plugin.php","Line":1021}
+
+Sep 05 2018 05:29:07
+{"type":8,"message":"Use of undefined constant PWP_NAME - assumed 'PWP_NAME'","file":"\/Users\/mrwaimanwong\/Dropbox\/AMPPS\/www\/appdetex.test\/wp-content\/mu-plugins\/wpengine-common\/class.deployment.php","line":17}
+
+Sep 05 2018 05:29:08
+{"Number":8,"Message":"Undefined index: HTTPS","File":"\/Users\/mrwaimanwong\/Dropbox\/AMPPS\/www\/appdetex.test\/wp-content\/mu-plugins\/wpengine-common\/plugin.php","Line":995}
+
+Sep 05 2018 05:29:08
+{"Number":2,"Message":"Invalid argument supplied for foreach()","File":"\/Users\/mrwaimanwong\/Dropbox\/AMPPS\/www\/appdetex.test\/wp-content\/mu-plugins\/wpengine-common\/plugin.php","Line":1021}
+
+Sep 05 2018 05:29:08
+{"type":8,"message":"Use of undefined constant PWP_NAME - assumed 'PWP_NAME'","file":"\/Users\/mrwaimanwong\/Dropbox\/AMPPS\/www\/appdetex.test\/wp-content\/mu-plugins\/wpengine-common\/class.deployment.php","line":17}
+
+Sep 05 2018 05:29:08
+{"type":8,"message":"Use of undefined constant PWP_NAME - assumed 'PWP_NAME'","file":"\/Users\/mrwaimanwong\/Dropbox\/AMPPS\/www\/appdetex.test\/wp-content\/mu-plugins\/wpengine-common\/class.deployment.php","line":17}
+
